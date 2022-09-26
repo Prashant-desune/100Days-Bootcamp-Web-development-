@@ -1,0 +1,41 @@
+* {
+  background-color: rgb(128, 245, 245);
+}
+
+body{
+  text-align: center;
+  margin: 40px;
+}
+
+
+#today-challenge{
+  font-weight: bold;
+  font-size: 54px;
+  text-align: center;
+  font-family: 'Fira Sans';
+}
+
+
+button:hover {
+  text-decoration: underline;
+}
+pre:hover {
+  text-decoration: underline;
+}
+
+.ican{
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 30px;
+margin-bottom: 30px;
+
+}
+
+#trophy{
+  width:200px;
+  height: 200px;
+  border-radius:100px;
+}
+
+
+
